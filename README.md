@@ -2,8 +2,9 @@
 
 # Company Attrition Analysis Dashboard
 This repository contains a data analysis dashboard that visualizes employee attrition trends within a company. The dashboard showcases various metrics that can help understand attrition by factors such as age, education, job role, working years, and monthly income.
-
-`` Overview ``
+### Dashboard Overview
+https://github.com/Neha-Pal/Company-Attrition-Analysis
+## Overview 
 The dashboard includes the following metrics and visualizations:
 
 ** Key Statistics: **
@@ -32,7 +33,7 @@ Sum of Attrition Count: Total attrition count for each role.
 Total Working Years and Monthly Income by Number of Companies Worked:
 
 - A line chart that correlates total working years and monthly income with the number of companies previously worked at by employees.
-`` Insights ``
+### Insights 
 High Attrition in Certain Age Groups: The age group 26-35 has the highest attrition, indicating a potential trend where younger or early-career employees are more likely to leave the company.
 Impact of Education on Attrition: Life Sciences graduates have the highest representation in attrition, which could reflect their higher numbers within the company or a particular trend in this field.
 Job Satisfaction: Positions such as Sales Representative and Healthcare Representative show higher job satisfaction scores, which could relate to lower attrition in these roles.
