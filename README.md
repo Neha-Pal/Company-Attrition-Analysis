@@ -2,12 +2,12 @@
 
 # Company Attrition Analysis Dashboard
 This repository contains a data analysis dashboard that visualizes employee attrition trends within a company. The dashboard showcases various metrics that can help understand attrition by factors such as age, education, job role, working years, and monthly income.
-### Dashboard Overview
-![BlinKIT Dashboard](https://github.com/Neha-Pal/Company-Attrition-Analysis/blob/main/Company%20Analysis.png)
+### Dashboard Preview
+![ Dashboard](https://github.com/Neha-Pal/Company-Attrition-Analysis/blob/main/Company%20Analysis.png)
 ## Overview 
 The dashboard includes the following metrics and visualizations:
 
-** Key Statistics: **
+### Key Statistics: 
 
 - Total Employees: 1,470
 - Total Attrition: 237 employees
