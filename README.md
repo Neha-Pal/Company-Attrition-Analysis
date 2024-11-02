@@ -3,7 +3,7 @@
 # Company Attrition Analysis Dashboard
 This repository contains a data analysis dashboard that visualizes employee attrition trends within a company. The dashboard showcases various metrics that can help understand attrition by factors such as age, education, job role, working years, and monthly income.
 ### Dashboard Overview
-https://github.com/Neha-Pal/Company-Attrition-Analysis
+![BlinKIT Dashboard](https://github.com/Neha-Pal/Data_Analysis-Using-PowerBI--RelianceSmart/blob/main/dashboard.jpg)
 ## Overview 
 The dashboard includes the following metrics and visualizations:
 
